@@ -1,7 +1,10 @@
 "This is a sample file" 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "this is my first commit" 
 "This is my second commit"
 "This is my third commit"
+=======
+>>>>>>> parent of 4015ae5... second commit
 =======
 >>>>>>> parent of 4015ae5... second commit
